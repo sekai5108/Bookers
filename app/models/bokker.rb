@@ -1,0 +1,2 @@
+class Bokker < ApplicationRecord
+end
